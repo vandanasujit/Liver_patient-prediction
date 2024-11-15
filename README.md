@@ -21,7 +21,7 @@ Any patient whose age exceeded 89 is listed as being of age "90".
 ### Link : https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1007-LiverPatientPred.zip
 
 
-##Challenges faced in this project:
+## Challenges faced in this project:
 -----------------------------------
 ### * Imbalanced dataset:
 The dataset was highly imbalanced, with a majority of patients having liver disease (class 1) and a minority of patients not having the disease (class 2).To address this imbalance, we applied balancing techniques such as oversampling the minority class to improve the model's ability to predict both classes accurately.
